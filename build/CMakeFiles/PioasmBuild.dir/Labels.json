@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/CMakeFiles/PioasmBuild.rule"
+		},
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/CMakeFiles/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule"
+		},
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "G:/Pi_Pico/LEDPWMSTRIP USBHID/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}
